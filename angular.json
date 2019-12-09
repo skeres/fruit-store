@@ -124,6 +124,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "fruit-store"
+    }
+  },
+  "defaultProject": "fruit-store",
+  "cli": {
+    "defaultCollection": "@ngrx/schematics"
+  }
 }
